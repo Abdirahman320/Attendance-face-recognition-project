@@ -1,0 +1,34 @@
+models/*.onnx
+models/*.joblib
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments / Python installs
+.venv/
+venv/
+env/
+ENV/
+*egacyenv/
+**/Scripts/
+**/site-packages/
+**/share/jupyter/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+
+# Large artifacts (use LFS or keep out)
+*.pt
+*.pth
+*.bin
+*.dat
+
+*.npz
+
+*.zip
+*.tar
+*.tar.gz
+legacyenv/
+serviceAccountKey.json

@@ -1,0 +1,7 @@
+{
+  "cmake.sourceDirectory": "C:/Users/abdirahman/Desktop/Face_Recognition/face_recognition_web/linux",
+  "python.analysis.extraPaths": [
+    "./backend/Silent-Face-Anti-Spoofing",
+    "./backend/Silent-Face-Anti-Spoofing/src"
+  ]
+}
